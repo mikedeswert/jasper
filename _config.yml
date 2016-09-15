@@ -58,6 +58,7 @@ safe: false
 lsi: false
 repo: mikedeswert.github.io
 relative_source: ../jasper/
+username: mikedeswert
 destination: ../mikedeswert.github.io/
 production_url:  https://mikedeswert.github.io/
 source_url:      https://github.com/mikedeswert/jasper/
