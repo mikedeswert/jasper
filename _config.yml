@@ -7,23 +7,23 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: "Mike De Swert's Blog"
+description: "A modest retrospection of events."
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Mike De Swert'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
+nickname: mikeds
 bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
-image: 'assets/images/casper.png'
+location: 'Antwerp, Belgium'
+url: 'http://mikedeswert.github.io/'
+image: 'assets/images/profile.jpg'
 
-short_url: 'biomadeira.github.io/jasper/'
-google_analytics: UA-69281367-1
-disqus: username
+short_url: 'mikedeswert.github.io/'
+google_analytics: UA-84145510-1
+disqus: mikedeswert
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: '/'
 
 # Permalinks
 permalink: /:title
@@ -56,13 +56,10 @@ exclude: [vendor]
 # or "master" otherwise
 safe: false
 lsi: false
-username: biomadeira
-repo: jasper
-branch: master
 relative_source: ../jasper/
-destination: ../jasper-pages/
-production_url:  https://biomadeira.github.io/jasper/
-source_url:      https://github.com/biomadeira/jasper/
+destination: ../mikedeswert.github.io/
+production_url:  https://mikedeswert.github.io/
+source_url:      https://github.com/mikedeswert/jasper/
 
 exclude:
   - README.md
